@@ -33,7 +33,7 @@ We employ three complementary detection strategies:
 - Voice Spoofing  
 - Support Vector Machine (SVM)  
 
-to run the code : streamlit run detector.py
+To run the code: activate the environment → `source venv/bin/activate` (or `venv\Scripts\activate` on Windows), then run → `streamlit run detector.py`
 
 - Gaussian Mixture Model (GMM)  
 - Convolutional Neural Network (CNN)  

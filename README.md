@@ -44,5 +44,5 @@ To run the code: activate the environment → `source venv/bin/activate` (or `ve
 
 
 
-demo clip:
+demo screenshots:
 
